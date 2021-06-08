@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="107px" viewBox="0 0 139 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Layout/Thumbnails/stacked-two-block-bottom</title>
+    <g id="Layout/Thumbnails/stacked-two-block-bottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bkgrd">
+            <rect id="White" fill="#FFFFFF" x="0" y="0" width="139" height="107"></rect>
+            <g id="Bkgrd-Elements" transform="translate(0.000000, 8.000000)">
+                <rect id="Rectangle" fill="#DEDEDE" x="0" y="0" width="139" height="18"></rect>
+                <g id="Group">
+                    <rect id="Rectangle" stroke="#979797" fill="#979797" x="0.5" y="0.5" width="2" height="17"></rect>
+                    <rect id="Rectangle" fill="#DEDEDE" x="0" y="18" width="3" height="81"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Rectangle" transform="translate(10.000000, 14.000000)">
+            <rect fill="#9E9E9E" x="0" y="0" width="35" height="4"></rect>
+            <rect fill="#707070" x="0" y="0" width="31.25" height="4"></rect>
+            <rect fill="#9E9E9E" x="0" y="0" width="29.25" height="4"></rect>
+            <rect fill="#707070" x="0" y="0" width="28.25" height="4"></rect>
+            <rect fill="#9E9E9E" x="0" y="0" width="25.25" height="4"></rect>
+            <rect fill="#707070" x="0" y="0" width="22.5" height="4"></rect>
+            <rect fill="#4F4F4F" x="0" y="0" width="18.125" height="4"></rect>
+            <rect fill="#707070" x="0" y="0" width="15.75" height="4"></rect>
+            <rect fill="#9E9E9E" x="0" y="0" width="6.625" height="4"></rect>
+            <rect fill="#707070" x="0" y="0" width="5.625" height="4"></rect>
+            <rect fill="#4F4F4F" x="0" y="0" width="4.25" height="4"></rect>
+        </g>
+        <rect id="Rectangle-Copy" fill="#7D7D7D" x="10" y="69" width="58" height="30"></rect>
+        <rect id="Rectangle-Copy" fill="#7D7D7D" x="10" y="33" width="122" height="30"></rect>
+        <rect id="Rectangle-Copy" fill="#7D7D7D" x="74" y="69" width="58" height="30"></rect>
+    </g>
+</svg>

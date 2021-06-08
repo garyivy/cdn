@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="107px" viewBox="0 0 139 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3AA9E555-ECFF-4CB8-B6AA-9FE5F51BB67F</title>
+    <g id="Report-Formatter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout-Thumbnails" transform="translate(-1700.000000, -407.000000)">
+            <rect fill="#121212" x="0" y="0" width="1909" height="1786"></rect>
+            <g id="4+" transform="translate(1543.000000, 195.000000)">
+                <g id="Layout-Thumbnail-Copy-13" transform="translate(157.000000, 212.000000)">
+                    <g id="Bkgrd">
+                        <rect id="White" fill="#FFFFFF" x="0" y="0" width="139" height="107"></rect>
+                        <g id="Bkgrd-Elements" transform="translate(0.000000, 8.000000)">
+                            <rect id="Rectangle" fill="#DEDEDE" x="0" y="0" width="139" height="18"></rect>
+                            <g id="Group">
+                                <rect id="Rectangle" stroke="#979797" fill="#979797" x="0.5" y="0.5" width="2" height="17"></rect>
+                                <rect id="Rectangle" fill="#DEDEDE" x="0" y="18" width="3" height="81"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Areas" transform="translate(10.000000, 33.000000)" fill="#7D7D7D">
+                        <rect id="Rectangle" x="0" y="0" width="36" height="30"></rect>
+                        <rect id="Rectangle-Copy-3" x="0" y="36" width="36" height="30"></rect>
+                        <rect id="Rectangle-Copy" x="43" y="0" width="36" height="30"></rect>
+                        <rect id="Rectangle-Copy-4" x="43" y="36" width="36" height="30"></rect>
+                        <rect id="Rectangle-Copy-2" x="86" y="0" width="36" height="30"></rect>
+                        <rect id="Rectangle-Copy-5" x="86" y="36" width="36" height="30"></rect>
+                    </g>
+                    <g id="Rectangle" transform="translate(10.000000, 14.000000)">
+                        <rect fill="#9E9E9E" x="0" y="0" width="35" height="4"></rect>
+                        <rect fill="#707070" x="0" y="0" width="31.25" height="4"></rect>
+                        <rect fill="#9E9E9E" x="0" y="0" width="29.25" height="4"></rect>
+                        <rect fill="#707070" x="0" y="0" width="28.25" height="4"></rect>
+                        <rect fill="#9E9E9E" x="0" y="0" width="25.25" height="4"></rect>
+                        <rect fill="#707070" x="0" y="0" width="22.5" height="4"></rect>
+                        <rect fill="#4F4F4F" x="0" y="0" width="18.125" height="4"></rect>
+                        <rect fill="#707070" x="0" y="0" width="15.75" height="4"></rect>
+                        <rect fill="#9E9E9E" x="0" y="0" width="6.625" height="4"></rect>
+                        <rect fill="#707070" x="0" y="0" width="5.625" height="4"></rect>
+                        <rect fill="#4F4F4F" x="0" y="0" width="4.25" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
